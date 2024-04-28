@@ -10,7 +10,7 @@ warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 ~~~
 Noté que era la 13.2.0, entonces busque que estandares soporta: ISO C90, ISO C99, ISO C11 y la mayoría de C2X (aunque las caracteristicas del C2X puedan cambiar antes del estandar final).
 
-Luego, cree el programa hello.c, lo copile y lo ejecute a traves de la consola:
+Luego, cree el programa hello.c, lo compile y lo ejecute a traves de la consola:
 ~~~
 PS C:\Users\faust\OneDrive\Documentos\UTN\2ndo Nivel\Sintaxis y Semantica de los Lenguajes> gcc hello.c -o hello.exe
 PS C:\Users\faust\OneDrive\Documentos\UTN\2ndo Nivel\Sintaxis y Semantica de los Lenguajes> .\hello
